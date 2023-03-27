@@ -1,0 +1,28 @@
+GameObjects and Player Classes are used for the examples for LINQ queries.
+
+    For Linq queries the most important thing is to have the items its going to work compatible with IEnumerable<T>
+It is needed for using queries. also all results from queries will have to be placed in a variable which uses the 
+IEnumerable<T> interface.
+
+    To this end there are a couple of methods that cn be called to help switch from the noraml T[] array (Where T is Type)
+to a list, which is part of the IEnumerable<T> interface. ToArray() and ToList() that will convert a T[] to a List<T> and
+Vice Versa.
+
+note: Capital letters on commands are not there in actual use
+
+Linq queries have the following structure:
+* All LINQ queries start with a From clause.
+* This is then followed by any number of Where, Join, Orderby, Let and additional From clauses.
+* A LINQ query terminates with either a Select clause or a Group clause.
+* A LINQ query that would otherwise be terminated can be continued with an Into clause allowing you to go back to the beginning
+
+
+Multiple From clauses
+This example below assumes that an Intersect() method exists. (I assume it returns a bool) 
+
+IEnumerable<string> Intersects = from o1 in gameObjects
+                                 from o2 in gameObjects
+     where(o1.Intersects(o2))
+     select $"{o1.ID} intersects {o2.ID}.";
+                                     
+                                     

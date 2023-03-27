@@ -1,0 +1,9 @@
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\bin\Debug\netcoreapp1.1\InterfacesEtc.deps.json
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\bin\Debug\netcoreapp1.1\InterfacesEtc.runtimeconfig.json
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\bin\Debug\netcoreapp1.1\InterfacesEtc.runtimeconfig.dev.json
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\bin\Debug\netcoreapp1.1\InterfacesEtc.dll
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\bin\Debug\netcoreapp1.1\InterfacesEtc.pdb
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\obj\Debug\netcoreapp1.1\InterfacesEtc.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\obj\Debug\netcoreapp1.1\InterfacesEtc.AssemblyInfo.cs
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\obj\Debug\netcoreapp1.1\InterfacesEtc.dll
+C:\Users\User\Google Drive\C#\Learning\InterfacesEtc\obj\Debug\netcoreapp1.1\InterfacesEtc.pdb

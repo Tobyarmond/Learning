@@ -1,0 +1,5 @@
+C:\Users\User\Google Drive\C#\Learning\EventDie\bin\Debug\EventDie.exe
+C:\Users\User\Google Drive\C#\Learning\EventDie\bin\Debug\EventDie.pdb
+C:\Users\User\Google Drive\C#\Learning\EventDie\obj\Debug\EventDie.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\C#\Learning\EventDie\obj\Debug\EventDie.exe
+C:\Users\User\Google Drive\C#\Learning\EventDie\obj\Debug\EventDie.pdb

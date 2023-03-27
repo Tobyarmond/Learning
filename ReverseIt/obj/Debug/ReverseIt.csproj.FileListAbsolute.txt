@@ -1,0 +1,5 @@
+C:\Users\User\Google Drive\C#\Learning\ReverseIt\bin\Debug\ReverseIt.exe
+C:\Users\User\Google Drive\C#\Learning\ReverseIt\bin\Debug\ReverseIt.pdb
+C:\Users\User\Google Drive\C#\Learning\ReverseIt\obj\Debug\ReverseIt.exe
+C:\Users\User\Google Drive\C#\Learning\ReverseIt\obj\Debug\ReverseIt.pdb
+C:\Users\User\Google Drive\C#\Learning\ReverseIt\obj\Debug\ReverseIt.csprojResolveAssemblyReference.cache

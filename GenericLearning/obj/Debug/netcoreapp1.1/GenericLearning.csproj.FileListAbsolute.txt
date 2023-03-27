@@ -1,0 +1,8 @@
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\bin\Debug\netcoreapp1.1\GenericLearning.deps.json
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\bin\Debug\netcoreapp1.1\GenericLearning.runtimeconfig.json
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\bin\Debug\netcoreapp1.1\GenericLearning.runtimeconfig.dev.json
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\bin\Debug\netcoreapp1.1\GenericLearning.dll
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\bin\Debug\netcoreapp1.1\GenericLearning.pdb
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\obj\Debug\netcoreapp1.1\GenericLearning.AssemblyInfo.cs
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\obj\Debug\netcoreapp1.1\GenericLearning.dll
+C:\Users\User\Google Drive\C#\Learning\GenericLearning\obj\Debug\netcoreapp1.1\GenericLearning.pdb

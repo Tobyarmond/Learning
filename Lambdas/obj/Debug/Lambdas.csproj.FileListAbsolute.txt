@@ -1,0 +1,5 @@
+C:\Users\User\Google Drive\C#\Learning\Lambdas\bin\Debug\Lambdas.exe
+C:\Users\User\Google Drive\C#\Learning\Lambdas\bin\Debug\Lambdas.pdb
+C:\Users\User\Google Drive\C#\Learning\Lambdas\obj\Debug\Lambdas.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\C#\Learning\Lambdas\obj\Debug\Lambdas.exe
+C:\Users\User\Google Drive\C#\Learning\Lambdas\obj\Debug\Lambdas.pdb

@@ -1,0 +1,15 @@
+C:\Users\armon\My Drive\C#\Learning\Trees\bin\Debug\net6.0\Trees.exe
+C:\Users\armon\My Drive\C#\Learning\Trees\bin\Debug\net6.0\Trees.deps.json
+C:\Users\armon\My Drive\C#\Learning\Trees\bin\Debug\net6.0\Trees.runtimeconfig.json
+C:\Users\armon\My Drive\C#\Learning\Trees\bin\Debug\net6.0\Trees.dll
+C:\Users\armon\My Drive\C#\Learning\Trees\bin\Debug\net6.0\Trees.pdb
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.csproj.AssemblyReference.cache
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.AssemblyInfoInputs.cache
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.AssemblyInfo.cs
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.dll
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\refint\Trees.dll
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.pdb
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\Trees.genruntimeconfig.cache
+C:\Users\armon\My Drive\C#\Learning\Trees\obj\Debug\net6.0\ref\Trees.dll

@@ -1,0 +1,7 @@
+C:\Users\User\Google Drive\C#\Learning\PigDice\bin\Debug\PigDice.exe
+C:\Users\User\Google Drive\C#\Learning\PigDice\bin\Debug\PigDice.pdb
+C:\Users\User\Google Drive\C#\Learning\PigDice\obj\Debug\PigDice.exe
+C:\Users\User\Google Drive\C#\Learning\PigDice\obj\Debug\PigDice.pdb
+C:\Users\User\Google Drive\C#\Learning\PigDice\bin\Debug\UserInput.dll
+C:\Users\User\Google Drive\C#\Learning\PigDice\bin\Debug\UserInput.pdb
+C:\Users\User\Google Drive\C#\Learning\PigDice\obj\Debug\PigDice.csprojResolveAssemblyReference.cache

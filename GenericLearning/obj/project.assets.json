@@ -7219,31 +7219,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\armon\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\armon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\armon\\My Drive\\C#\\Learning\\GenericLearning\\GenericLearning.csproj",
+      "projectUniqueName": "C:\\Users\\armon\\RiderProjects\\Learning\\GenericLearning\\GenericLearning.csproj",
       "projectName": "GenericLearning",
-      "projectPath": "C:\\Users\\armon\\My Drive\\C#\\Learning\\GenericLearning\\GenericLearning.csproj",
+      "projectPath": "C:\\Users\\armon\\RiderProjects\\Learning\\GenericLearning\\GenericLearning.csproj",
       "packagesPath": "C:\\Users\\armon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\armon\\My Drive\\C#\\Learning\\GenericLearning\\obj\\",
+      "outputPath": "C:\\Users\\armon\\RiderProjects\\Learning\\GenericLearning\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\armon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\armon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7269,7 +7262,7 @@
             "autoReferenced": true
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\armon\\.dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

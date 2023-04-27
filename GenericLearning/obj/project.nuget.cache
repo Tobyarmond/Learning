@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VCahTdfrsUUVZEWbLOJ11S/NQo4QrTjMumbR3yqTuUFLmzosVFxz3p0wW9F28gvXPMkXWV0fkWFyfTDqabqCbA==",
+  "dgSpecHash": "Wao87mjVrPpuyCY9nd/mn4oOX6jYJ8XEBlVLkpm0/TuPinhGCWDmPt2HTwqmr9NymIjSUrV9JK0bvqoK2cMkpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\armon\\My Drive\\C#\\Learning\\GenericLearning\\GenericLearning.csproj",
+  "projectFilePath": "C:\\Users\\armon\\RiderProjects\\Learning\\GenericLearning\\GenericLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\armon\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\armon\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

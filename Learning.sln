@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid", "Grid\Grid.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj", "{BEC9DD15-2AE2-4CE6-BEFD-F5D5596BA740}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heaps", "Heaps\Heaps.csproj", "{32E33F4A-D658-40EA-BC14-4466486A0147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{04E4A089-2998-4078-82CF-AFA2D8CD8DE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{BEC9DD15-2AE2-4CE6-BEFD-F5D5596BA740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC9DD15-2AE2-4CE6-BEFD-F5D5596BA740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC9DD15-2AE2-4CE6-BEFD-F5D5596BA740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E33F4A-D658-40EA-BC14-4466486A0147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E33F4A-D658-40EA-BC14-4466486A0147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E33F4A-D658-40EA-BC14-4466486A0147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E33F4A-D658-40EA-BC14-4466486A0147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E4A089-2998-4078-82CF-AFA2D8CD8DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E4A089-2998-4078-82CF-AFA2D8CD8DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E4A089-2998-4078-82CF-AFA2D8CD8DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E4A089-2998-4078-82CF-AFA2D8CD8DE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wBGMePiAME0G6rXyf2l4TRlsaVZOZRQdXkil0riTuzEx6aid+fuHj3voVnk0Squ5SKz4neKsOSXHWCSTolYwHw==",
+  "dgSpecHash": "nWyoAZpq9fLQjAluNgcuBQqfktTjFiVOywGKcCI9tIYAwGJIpdbB9KITxFdZ3rPr2hZ0F95PfwValdzJw9ehvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\armon\\My Drive\\C#\\Learning\\EventsExceptions\\EventsExceptions.csproj",
+  "projectFilePath": "C:\\Users\\armon\\RiderProjects\\Learning\\EventsExceptions\\EventsExceptions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\armon\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\armon\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

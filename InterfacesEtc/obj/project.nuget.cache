@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "owv5xzwLMI409j8LWlRErtE9XJ4qKS98QtQj1v27oGd9Wnzc20LF1opGZfgiMdrIF6r/YYtkylCphN8FQjzNIw==",
+  "dgSpecHash": "fW3nKjNmojvlLiWraxOJDypiF8pS1NbbgyBqXOzAIHq/eryQFE2rahd43GnxnbJXJsr9GNcClpZ1vf9+fDi5fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\armon\\My Drive\\C#\\Learning\\InterfacesEtc\\InterfacesEtc.csproj",
+  "projectFilePath": "C:\\Users\\armon\\RiderProjects\\Learning\\InterfacesEtc\\InterfacesEtc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\armon\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\armon\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
